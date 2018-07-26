@@ -62,10 +62,7 @@ namespace ECommerce.API.Controllers
 
             var checkoutService = proxyFactory.CreateServiceProxy<ICheckoutService>(new Uri("fabric:/ECommerce/ECommerce.CheckoutService"), new ServicePartitionKey(key));
 
-            return checkoutService;
-            //return ServiceProxy.Create<ICheckoutService>(
-            //       new Uri("fabric:/ECommerce/ECommerce.CheckoutService"),
-            //       new ServicePartitionKey(key));
+            return checkoutService;      
         }
 
         private long LongRandom()

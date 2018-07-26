@@ -42,12 +42,6 @@ namespace ECommerce.ProductCatalog
             List<Product> result = (await _repo.GetAllProducts()).ToList();
 
             return result;
-
-            // return new List<Product>
-            //{
-            //    new Product{  Description="sdsd" },
-            //    new Product{ Description="sdsddddddd"}
-            //};
         }
 
         /// <summary>
@@ -58,14 +52,7 @@ namespace ECommerce.ProductCatalog
         /// </remarks>
         /// <returns>A collection of listeners.</returns>
         protected override IEnumerable<ServiceReplicaListener> CreateServiceReplicaListeners()
-        {
-           // return this.CreateServiceRemotingReplicaListeners();
-            //return new[]
-            //{
-            //    new ServiceReplicaListener(context=>this.CreateServiceRemotingReplicaListeners())
-            //};
-            //return new ServiceReplicaListener[0];
-
+        {           
             return new[]
             {
                 new ServiceReplicaListener((context) =>

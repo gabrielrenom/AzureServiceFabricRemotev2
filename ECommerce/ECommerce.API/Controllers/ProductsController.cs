@@ -25,8 +25,6 @@ namespace ECommerce.API.Controllers
                 serializationProvider: new GenericDataProvider(new List<Type> { typeof(Product), typeof(List<Product>) })));
 
             _catalogService = proxyFactory.CreateServiceProxy<IProductCatalogService>(new Uri("fabric:/ECommerce/ECommerce.ProductCatalog"), new ServicePartitionKey(0));           
-
-            ///_catalogService = ServiceProxy.Create<IProductCatalogService>(new Uri("fabric:/ECommerce/ECommerce.ProductCatalog"), new Microsoft.ServiceFabric.Services.Client.ServicePartitionKey(0));
         }
         // GET api/values
         [HttpGet]

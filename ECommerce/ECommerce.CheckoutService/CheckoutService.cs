@@ -105,17 +105,12 @@ namespace ECommerce.CheckoutService
 
         private IProductCatalogService GetProductCatalogService()
         {
-
             var proxyFactory = new ServiceProxyFactory((c) => new FabricTransportServiceRemotingClientFactory(
                serializationProvider: new GenericDataProvider(new List<Type> { typeof(Product), typeof(List<Product>) })));
 
             var catalogService = proxyFactory.CreateServiceProxy<IProductCatalogService>(new Uri("fabric:/ECommerce/ECommerce.ProductCatalog"), new ServicePartitionKey(0));
 
-
             return (catalogService);
-            //return ServiceProxy.Create<IProductCatalogService>(
-            //   new Uri("fabric:/ECommerce/ProductCatalog"),
-            //   new ServicePartitionKey(0));
         }
 
 
