@@ -1,0 +1,17 @@
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.Interfaces.dll
+C:\Users\FCG\source\repos\ECommerce\UserActor\obj\Debug\netcoreapp2.0\win7-x64\UserActor.csproj.CoreCompileInputs.cache
+C:\Users\FCG\source\repos\ECommerce\UserActor\obj\Debug\netcoreapp2.0\win7-x64\UserActor.AssemblyInfoInputs.cache
+C:\Users\FCG\source\repos\ECommerce\UserActor\obj\Debug\netcoreapp2.0\win7-x64\UserActor.AssemblyInfo.cs
+C:\Users\FCG\source\repos\ECommerce\UserActor\obj\Debug\netcoreapp2.0\win7-x64\UserActor.csprojAssemblyReference.cache
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.exe
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.deps.json
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.runtimeconfig.json
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.runtimeconfig.dev.json
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.dll
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.pdb
+C:\Users\FCG\source\repos\ECommerce\UserActor\bin\Debug\netcoreapp2.0\win7-x64\UserActor.Interfaces.pdb
+C:\Users\FCG\source\repos\ECommerce\UserActor\obj\Debug\netcoreapp2.0\win7-x64\UserActor.csproj.CopyComplete
+C:\Users\FCG\source\repos\ECommerce\UserActor\obj\Debug\netcoreapp2.0\win7-x64\UserActor.dll
+C:\Users\FCG\source\repos\ECommerce\UserActor\obj\Debug\netcoreapp2.0\win7-x64\UserActor.pdb

@@ -1,0 +1,12 @@
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\bin\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.deps.json
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\bin\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\obj\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.csproj.CoreCompileInputs.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\obj\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.AssemblyInfoInputs.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\obj\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.AssemblyInfo.cs
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\bin\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.pdb
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\bin\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\bin\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.pdb
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\obj\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.csprojAssemblyReference.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\obj\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.csproj.CopyComplete
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\obj\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.CheckoutService.Model\obj\Debug\netcoreapp2.0\ECommerce.CheckoutService.Model.pdb

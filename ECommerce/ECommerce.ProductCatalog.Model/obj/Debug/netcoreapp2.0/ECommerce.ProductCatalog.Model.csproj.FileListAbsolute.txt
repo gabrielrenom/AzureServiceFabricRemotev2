@@ -1,0 +1,9 @@
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\bin\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.deps.json
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\bin\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\bin\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.pdb
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.csproj.CoreCompileInputs.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.AssemblyInfoInputs.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.AssemblyInfo.cs
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.pdb
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog.Model\obj\Debug\netcoreapp2.0\ECommerce.ProductCatalog.Model.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\obj\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\obj\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\obj\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.AssemblyInfo.cs
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.exe
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.deps.json
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.runtimeconfig.json
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.runtimeconfig.dev.json
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.pdb
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\obj\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.csprojAssemblyReference.cache
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\obj\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\obj\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.pdb
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.Model.dll
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\bin\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.Model.pdb
+C:\Users\FCG\source\repos\ECommerce\ECommerce.ProductCatalog\obj\Debug\netcoreapp2.0\win7-x64\ECommerce.ProductCatalog.csproj.CopyComplete
